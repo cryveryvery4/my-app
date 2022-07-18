@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.My-header {
+  background-color: aqua;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.My-footer {
+  font-family: 'Mali', cursive;
+}
+.My-content {
+  background-color: blueviolet;
+  font-family: 'Sarabun', sans-serif;
+  padding: 1em;
+  border-radius: 5px;
+  border:2px solid #282c34;
+  margin-bottom: 2px;
+  text-align: center;
+}
